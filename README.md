@@ -1,2 +1,3 @@
 # Gen-AI-
-collage tutorials  
+uploaded all code of prime aiml codes
+
